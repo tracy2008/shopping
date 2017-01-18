@@ -1,4 +1,4 @@
-package com.pycredit.commom.vo;
+package com.pycredit.common.vo;
 
 import java.io.Serializable;
 
