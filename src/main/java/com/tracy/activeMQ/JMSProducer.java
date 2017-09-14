@@ -1,12 +1,13 @@
-package com.pycredit.activeMQ;
+package com.tracy.activeMQ;
 
-import javax.jms.Connection;
+import java.sql.Connection;
+
 import javax.jms.ConnectionFactory;
-import javax.jms.Destination;
 import javax.jms.JMSException;
 import javax.jms.MessageProducer;
 import javax.jms.Session;
 import javax.jms.TextMessage;
+import javax.print.attribute.standard.Destination;
 
 import org.apache.activemq.ActiveMQConnection;
 import org.apache.activemq.ActiveMQConnectionFactory;

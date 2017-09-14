@@ -1,4 +1,4 @@
-package com.pycredit.system.model;
+package com.tracy.system.model;
 
 import java.io.Serializable;
 

@@ -5,7 +5,7 @@ import org.junit.Test;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 
-import com.pycredit.system.model.User;
+import com.tracy.system.model.User;
 
 public class TestMain {
 	Logger logger = LoggerFactory.getLogger(TestMain.class);

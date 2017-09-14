@@ -1,4 +1,4 @@
-package com.pycredit.system.web;
+package com.tracy.system.web;
 
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
@@ -8,9 +8,9 @@ import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RequestMethod;
 import org.springframework.web.bind.annotation.ResponseBody;
 
-import com.pycredit.common.vo.ResponseVO;
-import com.pycredit.common.web.controller.BaseController;
-import com.pycredit.system.model.User;
+import com.tracy.common.vo.ResponseVO;
+import com.tracy.common.web.controller.BaseController;
+import com.tracy.system.model.User;
 
 @Controller
 public class UserController extends BaseController {
